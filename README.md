@@ -1,5 +1,9 @@
 # Today I Learned(Til)
 
+## CS
+* [데이터베이스와트랜잭션](https://github.com/lenagend/TIL/blob/main/CS/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%EC%99%80%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98.md)
+* [프로세스와 스레드](https://github.com/lenagend/TIL/blob/main/CS/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80%EC%8A%A4%EB%A0%88%EB%93%9C.md)
+
 ## Book 
 ### 개발
 * [이펙티브 자바 - 죠슈아 블로크](https://github.com/lenagend/TIL/blob/main/book/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C%20%EC%9E%90%EB%B0%94%20-%20%EC%A3%A0%EC%8A%88%EC%95%84%20%EB%B8%94%EB%A1%9C%ED%81%AC.md)
