@@ -18,6 +18,5 @@
 ## 알고리즘 풀이
 * [백준](https://github.com/lenagend/TIL/tree/main/AlgorithmPractice/%EB%B0%B1%EC%A4%80)
 * [프로그래머스](https://github.com/lenagend/TIL/tree/main/AlgorithmPractice/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4)
-
-
-
+* [기타](https://github.com/lenagend/TIL/tree/main/AlgorithmPractice/%EA%B8%B0%ED%83%80)
+* [알고리즘팁](https://github.com/lenagend/TIL/tree/main/AlgorithmPractice/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%ED%8C%81)
