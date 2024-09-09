@@ -6,6 +6,7 @@
 * [네트워크와 인프라](https://github.com/lenagend/TIL/blob/main/CS/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EC%99%80%EC%9D%B8%ED%94%84%EB%9D%BC.md)
 * [OOP와 디자인패턴](https://github.com/lenagend/TIL/blob/main/CS/OOP%EC%99%80%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4.md)
 * [Http와 Https](https://github.com/lenagend/TIL/blob/main/CS/HTTP%EC%99%80%20HTTPS.md)
+* [자료구조](https://github.com/lenagend/TIL/blob/main/CS/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0.md)
 ## Book 
 ### 개발
 * [이펙티브 자바 - 죠슈아 블로크](https://github.com/lenagend/TIL/blob/main/book/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C%20%EC%9E%90%EB%B0%94%20-%20%EC%A3%A0%EC%8A%88%EC%95%84%20%EB%B8%94%EB%A1%9C%ED%81%AC.md)
